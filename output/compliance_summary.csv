@@ -1,0 +1,5 @@
+Region,Total_Claims,Avg_Claim,Avg_Adherence,Anomaly_Count
+East,3550,1183.3333333333333,0.8833333333333333,0
+North,980,980.0,0.6,0
+South,21150,10575.0,0.675,1
+West,2250,1125.0,0.815,0
